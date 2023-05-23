@@ -18,7 +18,7 @@
             android:layout_height="64dp"
             android:layout_marginTop="59dp"
             android:layout_marginEnd="32dp"
-            android:src="@drawable/picme"
+            android:src="@drawable/pp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
@@ -27,7 +27,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="30dp"
-            android:text="Welcome, "
+            android:text=" "
             android:textColor="@color/white"
             android:textSize="18sp"
             app:layout_constraintBottom_toBottomOf="@+id/profile_photo"
@@ -38,7 +38,7 @@
             android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Our Lvly Customer's♡♡"
+            android:text=" GOOD DAYS!"
             android:textColor="@android:color/white"
             android:textSize="18sp"
             android:textStyle="bold"
@@ -70,7 +70,7 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="@color/softpink"
+                    android:background="@drawable/all2"
                     android:gravity="center"
                     android:orientation="vertical">
 
@@ -99,7 +99,7 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="@color/softpink"
+                    android:background="@drawable/all2"
                     android:gravity="center"
                     android:orientation="vertical">
 
@@ -128,7 +128,7 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="@color/softpink"
+                    android:background="@drawable/all2"
                     android:gravity="center"
                     android:orientation="vertical">
 
@@ -141,7 +141,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="16dp"
-                        android:text="Table"
+                        android:text="Meja"
                         android:textColor="@color/black"
                         android:textSize="18sp" />
                 </LinearLayout>
